@@ -1,0 +1,6 @@
+framework module Pods_Encypted_and_Descrypt {
+  umbrella header "Pods-Encypted and Descrypt-umbrella.h"
+
+  export *
+  module * { export * }
+}
